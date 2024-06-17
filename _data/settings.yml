@@ -8,7 +8,7 @@ google-ID: 'G-QHPZ02EBN2'
 
 # Need to update the menu links!
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
+- {name: 'Research Resources', url: 'research'}
 - {name: 'Learning Resources', url: 'resources'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Documentation',      url: 'documentation'}
