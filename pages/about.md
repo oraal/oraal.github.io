@@ -1,8 +1,9 @@
 ---
-categories: []
+categories: [ORAAL]
 layout: post
 title: About this Project
-created: 1593287272
+tags: [project]
+created: 2020-06-27
 permalink: /about
 image: grouptalking.jpg
 ---
