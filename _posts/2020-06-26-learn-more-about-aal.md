@@ -1,5 +1,5 @@
 ---
-categories: []
+category: about-aal
 layout: basic_2
 title: Learn more about AAL!
 created: 1593221868
