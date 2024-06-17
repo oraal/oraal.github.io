@@ -1,5 +1,5 @@
 ---
-categories: []
+categories: [research, supplement]
 layout: basic_2
 title: Harlem 1969 (Walt Wolfram Recordings)
 created: 1687727259

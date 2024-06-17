@@ -1,5 +1,5 @@
 ---
-categories: []
+categories: [research, supplement]
 layout: basic_2
 title: CORAAL:DCB Stella Passage (Washington DC 2016)
 created: 1678882360
