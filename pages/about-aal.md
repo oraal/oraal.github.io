@@ -1,6 +1,6 @@
 ---
 layout: category
 title: About AAL
-category: aal
+category: about-aal
 permalink: /about-aal
 ---
