@@ -1,6 +1,6 @@
 ---
 category: research
-layout: post
+layout: basic_2
 title: CORAAL Supplements
 created: 1587756843
 tags: [CORAAL, data]
