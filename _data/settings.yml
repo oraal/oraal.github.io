@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string (was UA-112060364-2, need our id)
-google-ID: ''
+google-ID: 'G-QHPZ02EBN2'
 
 # Need to update the menu links!
 menu:
