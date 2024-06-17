@@ -1,6 +1,6 @@
 ---
 categories: []
-layout: page
+layout: post
 title: About this Project
 created: 1593287272
 permalink: /about
