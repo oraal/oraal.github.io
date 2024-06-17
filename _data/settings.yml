@@ -8,6 +8,7 @@ google-ID: 'G-QHPZ02EBN2'
 
 # Need to update the menu links!
 menu:
+- {name: 'CORAAL',		url: 'coraal'}
 - {name: 'About AAL',		url: 'about_aal'}
 - {name: 'Research Resources', 	url: 'research'}
 - {name: 'Education Resources', url: 'education'}
