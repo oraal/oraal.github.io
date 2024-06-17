@@ -1,6 +1,6 @@
 ---
 category: research 
-layout: post
+layout: basic_2
 title: CORAAL Components
 tags: [CORAAL, data]
 created: 1593216263

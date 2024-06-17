@@ -1,6 +1,6 @@
 ---
 categories: [ORAAL]
-layout: post
+layout: basic_2
 title: About this Project
 tags: [project]
 created: 2020-06-27
