@@ -8,12 +8,14 @@ google-ID: 'G-QHPZ02EBN2'
 
 # Need to update the menu links!
 menu:
-- {name: 'Research Resources', url: 'research'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'About AAL',		url: 'about_aal'}
+- {name: 'Research Resources', 	url: 'research'}
+- {name: 'Education Resources', url: 'education'}
+#- {name: 'Learning Resources', url: 'resources'}
+#- {name: 'Sample Posts',       url: 'sample-posts'}
+#- {name: 'Documentation',      url: 'documentation'}
+- {name: 'About ORAAL',         url: 'about'}
+#- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
