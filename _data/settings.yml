@@ -28,11 +28,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Next Page'
+  previous_page: 'Prev Page'
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'See also...'
 
 post_date_prefix: 'Written on'

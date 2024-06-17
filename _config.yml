@@ -10,8 +10,8 @@ permalink:           /Millennial-ORAAL/:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "ORAAL rebuild (Millennial Jekyll theme)"
-description:	       "Online Resources for African American Language"
+title:		     "Online Resources for African American Language"
+description:	     "Online Resources for African American Language"
 author:              "Charlie Farringon and Tyler Kendall"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
