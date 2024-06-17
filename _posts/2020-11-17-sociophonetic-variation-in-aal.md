@@ -1,5 +1,5 @@
 ---
-category: about_aal
+category: about-aal
 layout: basic_2
 title: Sociophonetic Variation in AAL
 created: 1605648498

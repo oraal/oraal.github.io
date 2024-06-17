@@ -1,5 +1,5 @@
 ---
-category: about_aal
+category: about-aal
 layout: basic_2
 title: Frequently Asked Questions about AAL
 created: 1594155489

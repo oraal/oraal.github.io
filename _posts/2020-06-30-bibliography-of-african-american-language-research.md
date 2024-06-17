@@ -1,5 +1,5 @@
 ---
-category: about_aal
+category: about-aal
 layout: basic_2
 title: Bibliography of African American Language Research
 created: 1593568486

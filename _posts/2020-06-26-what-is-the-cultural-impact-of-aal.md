@@ -1,5 +1,5 @@
 ---
-category: about_aal
+category: about-aal
 layout: basic_2
 title: What is the cultural impact of AAL?
 created: 1593211736
