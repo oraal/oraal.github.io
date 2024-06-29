@@ -4,5 +4,6 @@ Gemfile.lock
 .jekyll-metadata
 .DS_Store
 .jekyll-cache
+settings.json
 *.gem
 *~
