@@ -1,5 +1,5 @@
 ---
-categories: [research, supplement]
+category: supplement
 layout: basic_2
 title: Washington D.C. 1966 (Bengt Loman Recordings)
 created: 1574022744
