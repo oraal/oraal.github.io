@@ -1,5 +1,5 @@
 ---
-category: supplement
+categories: [research, supplement]
 layout: basic_2
 title: Washington D.C. 1966 (Bengt Loman Recordings)
 image: Loman-conversations.jpg
