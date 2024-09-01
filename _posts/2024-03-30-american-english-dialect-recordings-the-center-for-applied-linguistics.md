@@ -1,5 +1,5 @@
 ---
-categories: []
+category: research
 layout: basic_2
 title: 'American English Dialect Recordings: The Center for Applied Linguistics'
 image: cal-logo.jpg

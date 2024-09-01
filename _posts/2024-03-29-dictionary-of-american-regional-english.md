@@ -1,5 +1,5 @@
 ---
-categories: []
+category: research
 layout: basic_2
 title: Dictionary of American Regional English
 image: dare-logo.png

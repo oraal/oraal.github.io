@@ -1,5 +1,5 @@
 ---
-category: about-aal
+categories: [education, about-aal]
 layout: basic_2
 title: Learn more about AAL!
 image: Mississippi_barbershop.JPG

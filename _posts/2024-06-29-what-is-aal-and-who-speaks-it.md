@@ -3,6 +3,7 @@ category: about-aal
 layout: basic_2
 title: What is AAL and who speaks it?
 created: 1593204346
+tag: about-aal
 image: Mississippi_friends.jpg
 ---
 <p><span style="font-size:18px;"><span style="font-family:Arial,Helvetica,sans-serif;">The language of African Americans has been given many labels over the past fifty years, including Black English, Ebonics, African American English (AAE), African American Vernacular English (AAVE), and, most recently, African American Language (AAL). These different naming practices largely reflect labels created by scholars researching the language at different times. As we'll see below, these labels can reveal ideologies about the researcher.</span></span></p>
