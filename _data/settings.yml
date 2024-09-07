@@ -15,8 +15,8 @@ menu:
 #- {name: 'Learning Resources', url: 'resources'}
 #- {name: 'Sample Posts',       url: 'sample-posts'}
 #- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About ORAAL',         url: 'about'}
 - {name: 'Glossary',            url: 'glossary'}
+- {name: 'About ORAAL',         url: 'about'}
 #- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
