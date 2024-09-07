@@ -1,5 +1,5 @@
 ---
-categories: []
+category: research
 layout: basic_2
 title: Rochester Voices
 image: rocvoices-logo.png
