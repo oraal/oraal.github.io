@@ -55,7 +55,7 @@ For more clips and excerpts, visit our [Learn more about AAL](https://oraal.gith
 ### Curricula and Materials for AAL
 <a href="https://www.pbs.org/speak/education/" target="_blank">Do You Speak American? For Educators</a> - <em>Do You Speak American?</em> was a 2005 documentary series produced by PBS. On their companion website, there is plenty of information for educators, focused mainly on high school and college levels (available <a href="https://www.pbs.org/speak/education/" target="_blank">here</a>), including specific curricula for the study of African American English in the classroom.
 
-*[African American English Curriculum (College)](https://www.pbs.org/speak/education/curriculum/college/aae/)
+* [African American English Curriculum (College)](https://www.pbs.org/speak/education/curriculum/college/aae/)
 
 ### Language Diversity on Campus
 At North Carolina State University, the <a href="https://howl.wordpress.ncsu.edu/" target="_blank">Language Diversity Ambassadors</a>, a graduate student run outreach group, promotes awareness about linguistic diversity and linguistic discrimination on NC State's campus as well as society at large. They are in the process making several resources available on their website. Research by Stephany Dunston and colleagues (*The Importance of Graduate Student Engagement in a Campus Language Diversity Initiative, Journal of English Linguistics, Vol. 46(3):215-228)* suggests that student involvement in such initiatives is critical to reach diverse audiences, both on campus and in the community, but this engagement also teaches them the importance of engagement and being able to communicate research to a wider audience.
