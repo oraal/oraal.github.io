@@ -1,5 +1,5 @@
 ---
-categories: []
+category: about-aal
 layout: basic_2
 title: Linguists who work on AAL
 image: linguists-aal.jpeg
