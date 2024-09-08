@@ -6,7 +6,7 @@ created: 1593306295
 tags: [education]
 image: MississippiDominoes.jpg
 ---
-<p><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-size:18px;">While much of the work on AAL for educators is geared towards primary and secondary education, on this page we focus on materials for the study of AAL and other non-mainstream varieties in the college classroom. Like our [Resources for K-12 Educators](https://oraal.github.io/resources-for-k-12-educators) page, we include links to videos, other websites, and books that might be off interest. To learn more about AAL more generally, visit [Learn More About AAL](https://oraal.github.io/learn-more-about-aal) and our [About AAL](https://oraal.github.io/about-aal) page!</span></span></p><hr>
+While much of the work on AAL for educators is geared towards primary and secondary education, on this page we focus on materials for the study of AAL and other non-mainstream varieties in the college classroom. Like our [Resources for K-12 Educators](https://oraal.github.io/resources-for-k-12-educators) page, we include links to videos, other websites, and books that might be off interest. To learn more about AAL more generally, visit [Learn More About AAL](https://oraal.github.io/learn-more-about-aal) and our [About AAL](https://oraal.github.io/about-aal) page!</span></span></p><hr>
 
 ## Videos
 
@@ -37,12 +37,12 @@ image: MississippiDominoes.jpg
 **Voices of North Carolina (2005)**
 "One State, Many Voices – From the furthest reaches of the Outer Banks to the heights of the Southern Appalachian Highlands, an incredible diversity of people call North Carolina home. Cherokee and Lumbee Indians, African Americans, and first language Spanish-speakers all contribute their voices in this rich portrait of language and identity." (from <a href="https://languageandlife.org" target="_blank">The Language and Life Project</a>). The clip, African Americans in North Carolina, is available as a standalone clip <a href="https://www.youtube.com/watch?v=RTt07IVDeww" target="_blank">here</a>.
 
-<img src='assets/img/american-tongues.jpg' alt='American Tongues Title Card' width='300' />
+<img src='assets/img/american-tongues.jpg' style='float:left' alt='American Tongues Title Card' width='400' />
 
 **Do You Speak American (2005)**
 Do You Speak American? was a three-part PBS miniseries that explored language use in the United States. Host Robert MacNeil investigates the question, "what does it mean to speak American?" The three parts can regularly be found streaming on YouTube, though no official streams are available. High School and College curricula were developed by sociolinguists to support the miniseries and are available on the <a href="http://www.pbs.org/speak/education/" target="_blank">Do You Speak American website</a>.
 
-<img src='assets/img/DYSA-title.png' alt='Do you speak american Title Card' width='300' />
+<img src='assets/img/DYSA-title.png' style='float:left' alt='Do you speak american Title Card' width='400' />
 
 **American Tongues (1988)**
 American Tongues is a 1988 sociolinguistic documentary that examines American English dialects and perceptions. While the documentary is over 30 years old, it is still regularly used in colleges, universities and other training settings. It is available to stream on <a href="https://www.kanopy.com/" target="_blank">Kanopy</a>
@@ -52,7 +52,7 @@ For more clips and excerpts, visit our [Learn more about AAL](https://oraal.gith
 
 ## Web Links
 ### Curricula and Materials for AAL
-<a href="https://www.pbs.org/speak/education/" target="_blank">Do You Speak American? For Educators</a> - <em>Do You Speak American?</em> was a 2005 documentary series produced by PBS. On their companion website, there is plenty of information for educators, focused mainly on high school and college levels (available <a href="https://www.pbs.org/speak/education/" target="_blank">here</a>), including specific curricula for the study of African American English in the classroom.</span></span>
+<a href="https://www.pbs.org/speak/education/" target="_blank">Do You Speak American? For Educators</a> - <em>Do You Speak American?</em> was a 2005 documentary series produced by PBS. On their companion website, there is plenty of information for educators, focused mainly on high school and college levels (available <a href="https://www.pbs.org/speak/education/" target="_blank">here</a>), including specific curricula for the study of African American English in the classroom.
 <ul><li><a href="https://www.pbs.org/speak/education/curriculum/college/aae/" target="_blank"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-size:18px;">African American English Curriculum (College)</span></span></a></li></ul>
 
 ### Language Diversity on Campus
