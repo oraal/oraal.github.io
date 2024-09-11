@@ -416,7 +416,7 @@ Associate Professor of English Language and Linguistics, English Department, Geo
 
 <p style="text-align: right;"><span style="font-family:Arial,Helvetica,sans-serif;"><a href="#top">Back to top of page</a></span></p>
 
-## <a id="In Memoriam" name="In Memoriam">In memoriam</a>
+## <a id="In Memoriam" name="In Memoriam">In Memoriam</a>
 
 ### William Edward Farrison
 (1902 - 1985)
@@ -448,14 +448,14 @@ Dr. Turner completed his Ph.D. in linguistics at the University of Chicago. Chec
 
 Professor, University of Maryland Eastern Shore. Dr. Vaughn-Cooke received her Ph.D. from Georgetown University in 1976, with her dissertation, <em>The Implementation of a Phonological Change: The Case of Resyllabification in Black English</em>. She went on to work on speech language pathology and language acquisition in the speech of African American children in Washington DC.
 
-<a href="https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C38&amp;q=anna+fay+vaughn+cooke&amp;btnG=" target="_blank">Google Scholar</a></p></div></div></div><div class="listing__row"><div class="listing__content"><div class="listing__title"><p>
+<a href="https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C38&amp;q=anna+fay+vaughn+cooke&amp;btnG=" target="_blank">Google Scholar</a>
 
 ### Margaret Wade-Lewis
 (1945 - 2009)
 
 Dr. Wade-Lewis was a historian of African American linguists, and served as the Department Chair and Associate Professor of Linguistics and Literature in the Department of Black Studies at the State University of New York at New Paltz. She was the first African American woman to receive her Ph.D. in linguistics from NYU (1988).
 
-<a href="https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C38&amp;q=margaret+wade-lewis&amp;btnG=" target="_blank">Google Scholar</a></p></div></div></div><div class="listing__row"><div class="listing__content"><div class="listing__title"><p>
+<a href="https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C38&amp;q=margaret+wade-lewis&amp;btnG=" target="_blank">Google Scholar</a>
 
 ### Mark Hanna Watkins
 (1903 - 1976)
