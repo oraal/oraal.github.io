@@ -9,6 +9,8 @@ On this page, we highlight Black linguists who have contributed to the study of 
 
 If you have a suggestion for an addition, or if you are on this list and want to be removed, please contact us at <a href="mailto:OnlineResourcesAAL@gmail.com?subject=ORAAL%20Black%20Linguists%20List%20Addition%20Request">OnlineResourcesAAL@gmail.com</a>.
 
+<hr>
+
 ### H. Samy Alim
 
 David O. Sears Presidential Endowed Chair and Professor of Anthropology and African American Studies, University of California, Los Angeles
