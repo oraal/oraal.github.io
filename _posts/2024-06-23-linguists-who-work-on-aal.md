@@ -236,6 +236,12 @@ Ernest E. Monrad Professor of the Social Sciences, Professor of African and Afri
 
 <a href="https://aaas.fas.harvard.edu/people/marcyliena-morgan" target="_blank">https://aaas.fas.harvard.edu/people/marcyliena-morgan</a>
 
+### Marissa Morgan
+
+PhD Student, University of California, Santa Barbara
+
+<a href="https://linguistics.ucsb.edu/people/marissa-smith-morgan" target="_blank">https://linguistics.ucsb.edu/people/marissa-smith-morgan</a>
+
 ### Salikoko Mufwene
 
 Frank J. McLoraine Distinguished Service Professor, Department of Linguistics, University of Chicago
