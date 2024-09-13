@@ -59,6 +59,12 @@ Associate Teaching Professor, Emory University
 
 <a href="https://linguistics.emory.edu/people/corefaculty/britt.html" target="_blank">https://linguistics.emory.edu/people/corefaculty/britt.html</a>
 
+### Alexus P. Brown
+
+Adjunct Professor of Musicianship, Duquesne University
+
+<a href="https://lexdalinguist.com" target="_blank">https://lexdalinguist.com</a>
+
 ### Kendra Calhoun
 Assistant Professor of Linguistic Anthropology, University of Illinois, Urbana-Champaign
 
@@ -81,6 +87,12 @@ Associate Dean of Educational Affairs, Professor of Education, Stanford Universi
 Assistant Professor, School of Communication, Northwestern University
 
 <a href="https://tracyconner.academia.edu/" target="_blank">https://tracyconner.academia.edu/</a>
+
+### Alexis Davis
+
+PhD Candidate, Department of Linguistics, University of Florida
+
+<a href="https://slam.lin.ufl.edu/people/alexis-davis/" target="_blank">https://slam.lin.ufl.edu/people/alexis-davis/</a>
 
 ### Charles DeBose
 
