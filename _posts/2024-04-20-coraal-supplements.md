@@ -3,7 +3,7 @@ category: research
 layout: basic_2
 title: CORAAL Supplements
 created: 1587756843
-tags: [CORAAL, data]
+tags: [CORAAL, data, supplement]
 image: Seattle1972.jpg
 ---
 CORAAL Supplements highlight newly available recordings and selections from larger datasets important to the field of sociolinguistics prepared and curated by the CORAAL team.
@@ -18,7 +18,7 @@ For other data resources, please visit **<a href="https://oraal.github.io/extern
 
 The CORAAL:DCB Stella Passage recordings were made as part of the **<a href="components#DCB">CORAAL:DCB Component</a>** interviews by Minnie Quartey. Participants were asked to read the *Please Call Stella* reading passage, from the **<a href="https://accent.gmu.edu/" target="_blank">Speech Accent Archive</a>**, at the end of interviews. This supplement consists of 45 speakers from CORAAL:DCB and includes orthographic transcripts, phone-level alignments and vowel exacted data.
 
-<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"> <strong>Available now!</strong> For more information about the recordings and downloads, please visit <strong><a href="/coraal/supplements/dcb-stella">CORAAL:DCB Stella Passage (Washington DC 2016)</a></strong>.</div>
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"> <strong>Available now!</strong> For more information about the recordings and downloads, please visit <strong><a href="/dcb-stella">CORAAL:DCB Stella Passage (Washington DC 2016)</a></strong>.</div>
 
 ## <a id="Harlem" name="Harlem">Harlem 1969 (Walt Wolfram Recordings)</a>
 
@@ -28,7 +28,7 @@ Wolfram, Walt. 1974. *Sociolinguistic Aspects of Assimilation*. Arlington, VA: C
 
 Wolfram, Walt, Marie Shiels, and Ralph W. Fasold. 1971. Overlapping Influence in the English of Second Generation Puerto Rican Teenagers in Harlem. Final Report, USOE Project No. 3-70-0033(508). Washington, D.C.: Center for Applied Linguistics.
 
-<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Available now!</strong> For more information about the recordings and downloads, please visit <strong><a href="/coraal/supplements/harlem">Harlem 1969 (Walt Wolfram Recordings)</a></strong>.</div>
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Available now!</strong> For more information about the recordings and downloads, please visit <strong><a href="/harlem-1969">Harlem 1969 (Walt Wolfram Recordings)</a></strong>.</div>
 
 ## <a id="Seattle" name="Seattle">Seattle 1972 (Elaine Tarone Recordings)</a>
 
@@ -38,7 +38,7 @@ Tarone, Elaine. 1972. Aspects of intonation in vernacular White and Black Englis
 
 Tarone, Elaine. 1973. Aspects of intonation in Black English. *American Speech* 48.1/2: 29-36. <a href="https://doi.org/10.2307/3087890" target="_blank">https://doi.org/10.2307/3087890</a>
 
-<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Available now!</strong> For more information about the recordings and downloads, please visit <strong><a href="/coraal/supplements/seattle">Seattle 1972 (Elaine Tarone Recordings)</a></strong>.</div>
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Available now!</strong> For more information about the recordings and downloads, please visit <strong><a href="/seattle-1972">Seattle 1972 (Elaine Tarone Recordings)</a></strong>.</div>
 
 ## <a id="Loman" name="Loman">Washington DC 1966 (Bengt Loman Recordings)</a>
 
@@ -48,6 +48,6 @@ Loman, Bengt. 1967a. *Conversations in a Negro American Dialect*. Washington, D.
 
 Loman, Bengt. 1967b. *Intonation patterns in a Negro American dialect: A preliminary report*. Washington, D.C.: Center for Applied Linguistics. Unpublished manuscript.
 
-<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Available now!</strong> For more information about the recording subset and downloads, please visit <strong><a href="/coraal/supplements/dc1966">Washington DC 1966 (Bengt Loman Recordings)</a></strong>!</div>
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Available now!</strong> For more information about the recording subset and downloads, please visit <strong><a href="/dc-1966">Washington DC 1966 (Bengt Loman Recordings)</a></strong>!</div>
 
 <p style="text-align: right;"><a href="#top">Back to top of page</a></p>
