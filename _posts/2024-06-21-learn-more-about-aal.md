@@ -14,9 +14,9 @@ If you have any suggestions or recommendations for additions, please contact us 
 
 ## <a id="Videos" name="Videos">Videos</a>
 
-# <a id="General" name="General">General</a> Information about AAL
+### <a id="General" name="General">General Information about AAL</a> 
 
-We start by highlighting general introductions to the study of AAL.
+We start by highlighting general introductions to the study of AAL
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/1YxH43Cw6tI" title="What People Get Wrong About African-American English | Otherwords" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -24,7 +24,7 @@ We start by highlighting general introductions to the study of AAL.
 
 # <a id="Perception" name="Perception"></a>
 
-In this section, we highlight two videos where speakers talk about their language as expressions of cultural identity.
+In the following two videos, speakers talk about their language as expressions of cultural identity.
 
 <iframe width="300" height="169" src="https://www.youtube.com/embed/aQrtB7cZDrA" title="African American English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -36,7 +36,7 @@ Several African Americans discuss their views on the perception of their languag
 
 <hr>
 
-# <a id="TBiA" name="TBiA">Talking Black in America</a>
+### <a id="TBiA" name="TBiA">Talking Black in America</a>
 
 The Language and Life Project produced documentary, <em>Talking Black in America</em>, came out in 2017. Here we provide links to several clips from the documentary, as well as the trailer for the forthcoming <em>Signing Black in America</em>, about Black American Sign Language use in African American communities.
 
@@ -62,21 +62,21 @@ The History of Black Deaf Schools
 
 Check the <a href="https://www.youtube.com/channel/UCv9o-ocsGAWdGznovmwquqQ" target="_blank">LLP's YouTube Channel</a> for even more videos!
 
-# <a id="Education" name="Education">Education and Controversies</a>
+### <a id="Education" name="Education">Education and Controversies</a>
 
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" scrolling="no" src="https://www.youtube.com/embed/J3D2iyBqlCk" width="300" height="169" frameborder="0"></iframe>
 
-This video, <em>What American got wrong about Ebonics?</em> presents a great summary of the Oakland Ebonics<br>Controversy, and why American got it wrong. There is an accompanying article via the Huffington Post, available <a href="https://highline.huffingtonpost.com/articles/en/ebonics/" target="_blank">here</a>.
+This video, <em>What American got wrong about Ebonics?</em> presents a great summary of the Oakland Ebonics Controversy, and why American got it wrong. There is an accompanying article via the Huffington Post, available <a href="https://highline.huffingtonpost.com/articles/en/ebonics/" target="_blank">here</a>.
+
+The following clip is from the documentary, <em>Do You Speak American?</em> about the Ann Arbor School Board. Also check out "<a href="https://www.youtube.com/watch?v=xX1-FgkfWo8" target="_blank">AAE (or Ebonics) in the Classroom</a>."
 
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube.com/embed/KKlmaFQniB0" width="300" height="169" frameborder="0"></iframe>
 
-This clip is from the documentary, <em>Do You Speak American?</em> about the Ann Arbor School Board. Also check out "<a href="https://www.youtube.com/watch?v=xX1-FgkfWo8" target="_blank">AAE (or Ebonics) in the Classroom</a>."
+In addition to the videos above, we really like two videos produced by KARE 11 in Minneapolis about African American Vernacular English in the classroom: <a href="https://youtu.be/9iVOZ_-Xwrc" target="_blank">Lessons from Lucy Laney: African American Vernacular English (AAVE)</a> and <a href="https://youtu.be/KVZHakC1SlU" target="_blank">Lucy Laney Elementary: African American Vernacular English</a>. Both videos were part of KARE 11's year long documentary about Lucy Laney Elementary School.
 
-In addition to the videos above, we really like two videos produced by KARE 11 in Minneapolis about African American Vernacular English in the classroom: <a href="https://youtu.be/9iVOZ_-Xwrc" target="_blank">Lessons from Lucy Laney: African American Vernacular English (AAVE)</a> and <a href="https://youtu.be/KVZHakC1SlU" target="_blank">Lucy Laney Elementary: African American Vernacular English</a>. Both videos were part of KARE 11's year long documentary about Lucy Laney Elementary School. 
+Check out this video, <a href="https://youtu.be/cseYyv72FBo" target="_blank">Oakland Unified School District,</a> compiled by Anthony Garcia, featuring footage from the 90s, including interviews with Toni Cook of the Oakland School Board, as well as sociolinguist Fay Vaughn Cooke.
 
-Check out this video, <a href="https://youtu.be/cseYyv72FBo" target="_blank">Oakland Unified School District,</a> compiled by Anthony Garcia, featuring footage from the 90s, including interviews with Toni Cook of the Oakland School Board, as well as sociolinguist Fay Vaughn Cooke. 
-
-# <a id="Variation" name="Variation">Variation in AAL</a>
+### <a id="Variation" name="Variation">Variation in AAL</a>
 
 In this section, we present a couple videos that highlight different aspects of variation in AAL. The first video, produced by the Language and Life Project, highlights variation in North Carolina, and the second is a video produced by MTV, asking the question, Why do people say 'ax' instead of 'ask'?
 
@@ -88,17 +88,17 @@ Why do people say 'ax' instead of 'ask'?
 
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube.com/embed/l-VnitbeS6w" width="300" height="169" frameborder="0"></iframe>
 
-# <a id="CodeSwitch" name="CodeSwitch">Code Switching/Style Shifting</a>
+### <a id="CodeSwitch" name="CodeSwitch">Code Switching/Style Shifting</a>
 
 For more about Code Switching/Style Shifting, see our <strong><a href="/how-does-aal-vary">AAL Variation</a></strong> page!
 
-Jamila Lyiscott: 3 ways to speak English 
+Jamila Lyiscott: 3 ways to speak English
 
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube.com/embed/k9fmJ5xQ_mc" width="300" height="169" frameborder="0"></iframe>
 
 Jamila Lyiscott, an educator and spoken word artist, discusses the languages she uses with her friends, parents and in the classroom.
 
-# Black American Sign Language
+### <a id="BlackASL" name="BlackASL">Black American Sign Language</a>
 
 For more information on Black ASL, please visit Dr. Joseph Hill's Resource page: <strong><a href="https://sites.google.com/view/josephchill/black-deaf-resources?authuser=0" target="_blank">https://sites.google.com/view/josephchill/black-deaf-resources</a>
 </strong>
@@ -109,7 +109,7 @@ Black ASL:
 
 Dr. Joseph Hill gives a general introduction to Black American Sign Language.
 
-<a id="Lectures" name="Lectures">Lectures</a>
+### <a id="Lectures" name="Lectures">Lectures</a>
 
 Many lectures are available on YouTube. We highlight two, Dr. Lisa Green, presenting "African American English Through The Years" and Dr. April Baker-Bell's "We Been Knowin': Toward an Antiracist Language &amp; Literacy Education."
 
@@ -125,7 +125,7 @@ Dr. April Baker-Bell is an Assistant Professor of Language, Literacy, and Englis
 
 <hr>
 
-<a id="Podcasts" name="Podcasts">Podcasts and Radio</a>
+## <a id="Podcasts" name="Podcasts">Podcasts and Radio</a>
 
 Podcasts and radio programs can be a great introduction to different kinds of academic topics, and can be great tools to use in the classroom setting. Below, we list several linguistically relevant podcasts, with some episode recommendations that focus on topics related to AAL.
 
@@ -159,7 +159,7 @@ Podcasts and radio programs can be a great introduction to different kinds of ac
 
 <hr>
 
-<a id="Other" name="Other">Other Websites and Materials</a>
+## <a id="Other" name="Other">Other Websites and Materials</a>
 
 <em><a href="http://www.blacklanguagesyllabus.com/" target="_blank">Black Language Syllabus</a></em>- The Black Language Syllabus is an online magazine and website co-edited, designed, and maintained by Dr. April Baker-Bell and Dr. Carmen Kynard. The website contains articles on <a href="http://www.blacklanguagesyllabus.com/black-language-education.html" target="_blank">Black Language Education</a>, <a href="http://www.blacklanguagesyllabus.com/black-language-in-childrens--ya-lit.html" target="_blank">Black Language in Children's and Young Adult Literature</a>, and <a href="http://www.blacklanguagesyllabus.com/black-language-and-hip-hop.html" target="_blank">Black Language in Hip Hop</a>.
 
