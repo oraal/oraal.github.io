@@ -7,7 +7,7 @@ created: 2020-06-27
 permalink: /about
 ---
 
-<img src='assets/img/oraal-logo.jpg' align='right' alt='ORAAL Logo' width='250' /><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-size:18px;">The <strong>Online Resources for African American Language (ORAAL)</strong> project seeks to bring together information and resources about language in the African American community, for educators, researchers, and the&nbsp;public.</span></span>
+<img src='assets/img/oraal-logo-green.png' align='right' alt='ORAAL Logo' width='250' /><span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-size:18px;">The <strong>Online Resources for African American Language (ORAAL)</strong> project seeks to bring together information and resources about language in the African American community, for educators, researchers, and the&nbsp;public.</span></span>
 
 <span style="font-family:Arial,Helvetica,sans-serif;"><span style="font-size:18px;">African American Language (AAL), sometimes called African American English (AAE), African American Vernacular English (AAVE), Black English, or Ebonics, represents a rich and diverse set of varieties of American English. Its history is as old as America and its linguistic structure is as systematic and as normal&nbsp;as other varieties of English, in the U.S. and elsewhere. Yet, African American Language is often misrepresented and misunderstood.&nbsp;</span></span>
 
