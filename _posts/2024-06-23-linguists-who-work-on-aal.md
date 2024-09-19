@@ -384,6 +384,12 @@ Assistant Professor of Linguistics, Santa Monica College
 
 <a href="https://www.jamieathomas.com/" target="_blank">https://www.jamieathomas.com/</a>
 
+### Alayo Tripp
+
+Assistant Professor of Computational Language Science, Department of Linguistics, University of Florida
+
+<a href="https://itstripp.com/" target="_blank">https://itstripp.com</a>
+
 ### Denise Troutman
 
 Associate Professor, Department of Writing, Rhetoric, and American Cultures, Department of Linguistics and Languages, Michigan State University
