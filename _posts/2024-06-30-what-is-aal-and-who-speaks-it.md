@@ -1,7 +1,7 @@
 ---
 category: about-aal
 layout: basic_2
-title: What is AAL and who speaks it?
+title: What is African American Language and who speaks it?
 created: 1593204346
 tag: about-aal
 image: Mississippi_friends.jpg
