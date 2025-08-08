@@ -1,7 +1,7 @@
 ---
 category: about-aal
 layout: basic_2
-title: Linguists who work on AAL
+title: Linguists who work on African American Language
 image: linguists-aal.jpeg
 created: 1593366936
 ---
@@ -31,9 +31,9 @@ Charles E. Ducommun Endowed Professor (Emerita), Graduate School of Education, S
 
 ### John Baugh
 
-Margaret Bush Wilson Professor in Arts &amp; Sciences, Washington University in St. Louis
+Barbara Jordan Distinguished Professor of Linguistics, Rice University
 
-<a href="https://psych.wustl.edu/people/john-baugh" target="_blank">https://psych.wustl.edu/people/john-baugh</a>
+<a href="https://profiles.rice.edu/faculty/john-baugh" target="_blank">https://profiles.rice.edu/faculty/john-baugh</a>
 
 ### Renée Blake
 
@@ -57,7 +57,7 @@ Soros Justice Fellow, The Open Society Foundations
 
 Associate Teaching Professor, Emory University
 
-<a href="https://linguistics.emory.edu/people/corefaculty/britt.html" target="_blank">https://linguistics.emory.edu/people/corefaculty/britt.html</a>
+<a href="https://linguistics.emory.edu/faculty/profiles/britt-erica.html" target="_blank">https://linguistics.emory.edu/faculty/profiles/britt-erica.html</a>
 
 ### Alexus P. Brown
 
@@ -228,7 +228,7 @@ Professor Emerita, Department of African American Studies, Princeton University
 
 Assistant Professor, Department of English, Brooklyn College
 
-<a href="http://www.brooklyn.cuny.edu/web/academics/schools/socialsciences/departments/english/faculty_details.php?faculty=1418" target="_blank">http://www.brooklyn.cuny.edu/web/academics/schools/socialsciences/departments/english/faculty_details.php?faculty=1418</a>
+<a href="https://www.brooklyn.edu/faculty-staff/simanique-moody/" target="_blank">https://www.brooklyn.edu/faculty-staff/simanique-moody/</a>
 
 ### Marcyliena Morgan
 
@@ -250,7 +250,7 @@ Frank J. McLoraine Distinguished Service Professor, Department of Linguistics, U
 
 ### Jamaal Muwwakkil
 
-University of California Chancellor’s Postdoctoral Fellow, Department of Education, University of California, Los Angeles
+Assistant Professor of Anthropology, Department of Anthropology, University of Washington
 
 <a href="https://www.wordsbyjamaal.com/" target="_blank">https://www.wordsbyjamaal.com/</a>
 
@@ -280,7 +280,7 @@ Associate Professor of English, Department of English, Western Michigan Universi
 
 ### Sarah Phillips
 
-Postdoctoral Scholar, Georgetown University Medical Center
+Assistant Professor, Department of Linguistics, University of Arizona
 
 <a href="https://sarahfphillips.com/" target="_blank">https://sarahfphillips.com/</a>
 
